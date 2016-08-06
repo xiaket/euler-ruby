@@ -1,13 +1,13 @@
 # encoding: UTF-8
 # Author:         Kent Xia/Xia Kai <kentx@pronto.net/xiaket@gmail.com>
-# Filename:       08alt.rb
+# Filename:       08.rb
 # Date created:   2016-08-06 16:34
-# Last modified:  2016-08-06 19:22
+# Last modified:  2016-08-06 19:48
 #
 # Description:
 #
 
-file = File.open("numbers")
+file = File.open("08.data")
 lines = file.read()
 file.close()
 
